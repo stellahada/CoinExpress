@@ -13,7 +13,7 @@ Link Expo: https://snack.expo.dev/@erickbernat/projeto-final-smd
 - ReactNative
 - Expo
 - Expo Go
-
+- Apis 
 ## Contribuidores 🧑‍💻👩‍💻🧑‍💻
 - Erick Duarte Bernat
 
