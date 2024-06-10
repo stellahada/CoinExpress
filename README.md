@@ -1,6 +1,6 @@
 # CoinExpress - CriptoMoedas 🪙
 Aplicativo desenvolvido em ReactNative 
-
+Link Expo: https://snack.expo.dev/@erickbernat/projeto-final-smd
 ## Funcionalidades 
 ### **Lista de Criptomoedas**
 
